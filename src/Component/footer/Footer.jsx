@@ -12,7 +12,7 @@ const Footer = () => {
             <Link href="/" className="text-4xl md:text-6xl font-bold mb-4">Keen<span className="font-medium">Keeper</span></Link>
             <p className="w-[80%] mx-auto text-sm text-gray-300 my-4">Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.</p>
             <div>
-                <h4 className="mb-4">Social Links</h4>
+                <h4 className="mb-4">Social </h4>
                 <ul className="flex justify-center items-center gap-3 text-black mb-10">
                     <li className="bg-white rounded-full p-2"><Link href="https://www.instagram.com/"><FaInstagramSquare /></Link></li>
                     <li className="bg-white rounded-full p-2"><Link href="https://www.facebook.com/"><FaFacebookSquare /></Link></li>
