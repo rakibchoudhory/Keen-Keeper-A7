@@ -9,8 +9,8 @@ const TimeLineCard = ({singleInteraction}) => {
 
                         <div className=' flex justify-center items-center'>
                            {
-                            singleInteraction.protocol === "Call" ? <img src="/public/assets/call.png" alt="" /> : singleInteraction.protocol === "Text" ? <img src="/public/assets/text.png" alt="" />  : 
-                           <img src="/public/assets/video.png" alt="" /> 
+                            singleInteraction.protocol === "Call" ? <img src="/assets/call.png" alt="" /> : singleInteraction.protocol === "Text" ? <img src="/assets/text.png" alt="" />  : 
+                           <img src="/assets/video.png" alt="" /> 
                            }
                         </div>
                         
