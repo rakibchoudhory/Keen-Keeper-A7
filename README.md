@@ -62,7 +62,7 @@ See "at a glance" how you spend your time. Do you text more than you call? Our e
 
 The app is live and ready to use!
 
-👉 **Visit the site:** [https://a7-keen-keeper-one.vercel.app/]
+👉 **Visit the site:** [https://keen-keeper-taupe-six.vercel.app/]
 
 ---
 
