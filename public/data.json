@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Jenkins",
+    "picture": "https://i.pravatar.cc/150?u=sarah",
+    "email": "sarah.j@example.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "friend"],
+    "bio": "Met in university. Love hiking together.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Chen",
+    "picture": "https://i.pravatar.cc/150?u=marcus",
+    "email": "mchen@techcorp.net",
+    "days_since_contact": 3,
+    "status": "on track",
+    "tags": ["work", "mentor"],
+    "bio": "Former manager at TechCorp. Great source of career advice.",
+    "goal": 30,
+    "next_due_date": "2025-08-15"
+  },
+  {
+    "id": 3,
+    "name": "Elena Rodriguez",
+    "picture": "https://i.pravatar.cc/150?u=elena",
+    "email": "elena.rod@lifestyle.com",
+    "days_since_contact": 45,
+    "status": "almost due",
+    "tags": ["childhood", "travel"],
+    "bio": "Grew up on the same street. We usually catch up over coffee.",
+    "goal": 30,
+    "next_due_date": "2025-06-10"
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "picture": "https://i.pravatar.cc/150?u=david",
+    "email": "dwilson88@gmail.com",
+    "days_since_contact": 5,
+    "status": "on track",
+    "tags": ["gym", "hobby"],
+    "bio": "Met at the local climbing gym. Training for a marathon.",
+    "goal": 7,
+    "next_due_date": "2025-07-28"
+  },
+  {
+    "id": 5,
+    "name": "Aisha Khan",
+    "picture": "https://i.pravatar.cc/150?u=aisha",
+    "email": "akhan.design@studio.com",
+    "days_since_contact": 60,
+    "status": "overdue",
+    "tags": ["college", "creative"],
+    "bio": "Design school classmate. Working on a collaborative art project.",
+    "goal": 30,
+    "next_due_date": "2025-05-25"
+  },
+  {
+    "id": 6,
+    "name": "James O'Connor",
+    "picture": "https://i.pravatar.cc/150?u=james",
+    "email": "jamesoc@service.org",
+    "days_since_contact": 2,
+    "status": "on track",
+    "tags": ["neighbor", "friend"],
+    "bio": "Lives next door. Very helpful with gardening tips.",
+    "goal": 14,
+    "next_due_date": "2025-08-05"
+  },
+  {
+    "id": 7,
+    "name": "Linda Wu",
+    "picture": "https://i.pravatar.cc/150?u=linda",
+    "email": "lwu_projects@freelance.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["sister", "family"],
+    "bio": "Met at a conference last year. Expert in supply chain logistics.",
+    "goal": 21,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 8,
+    "name": "Robert Taylor",
+    "picture": "https://i.pravatar.cc/150?u=robert",
+    "email": "rob.taylor@legacy.com",
+    "days_since_contact": 90,
+    "status": "overdue",
+    "tags": ["friend", "music"],
+    "bio": "Played in a band together in our 20s. Need to reconnect.",
+    "goal": 60,
+    "next_due_date": "2025-04-12"
+  },
+  {
+    "id": 9,
+    "name": "Sophie Martin",
+    "picture": "https://i.pravatar.cc/150?u=sophie",
+    "email": "sophie.m@edu.fr",
+    "days_since_contact": 1,
+    "status": "on track",
+    "tags": ["friend", "study"],
+    "bio": "Currently studying abroad. We FaceTime weekly.",
+    "goal": 7,
+    "next_due_date": "2025-07-30"
+  },
+  {
+    "id": 10,
+    "name": "Tom Baker",
+    "picture": "https://i.pravatar.cc/150?u=tom",
+    "email": "tbaker.chef@cuisine.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["hobby", "foodie"],
+    "bio": "Local chef. We share a passion for sourdough baking.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  }
+]
